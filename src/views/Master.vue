@@ -24,14 +24,6 @@
             <li class="nav-item">
               <a class="nav-link" href="#contact">Kontak </a>
             </li>
-            <div class="dropdown">
-              <button class="btn btn-bs-danger-border-subtle dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Tugas</button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#jadwal">Jadwal Tugas</a></li>
-                <li><a class="dropdown-item" href="https://drive.google.com/file/d/1kD4KWo7-eIvQtw33oeUEvaZcE8vAipgv/view?usp=share_link">Analisis 1</a></li>
-                <li><a class="dropdown-item" href="https://drive.google.com/file/d/16cX_ODK-d5WHJqA7wl1kbX6ix5U1xxbN/view?usp=share_link">Analisis 2</a></li>
-              </ul>
-            </div>
           </ul>
         </div>
       </div>
@@ -214,44 +206,6 @@
           </div>
         </div>
       </div>
-    </section>
-
-    <section id="jadwal">
-      <div class="row text-center mb-3">
-        <div class="col">
-          <h3>Jadwal Tugas</h3>
-        </div>
-      </div>
-      <table class="table text-center">
-        <thead>
-          <tr>
-            <th scope="col">No</th>
-            <th scope="col">Hari</th>
-            <th scope="col">Keterangan</th>
-            <th scope="col">Deadline</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="table-danger">
-            <th scope="row">1</th>
-            <td>Senin</td>
-            <td>Membuat website</td>
-            <td>Jumat 10:00</td>
-          </tr>
-          <tr class="table-warning">
-            <th scope="row">2</th>
-            <td>Selasa</td>
-            <td>Analisis 1</td>
-            <td><a class="dropdown-item" href="https://drive.google.com/file/d/1kD4KWo7-eIvQtw33oeUEvaZcE8vAipgv/view?usp=share_link">Analisis 1</a></td>
-          </tr>
-          <tr class="table-success">
-            <th scope="row">3</th>
-            <td>Jumat</td>
-            <td>Analisis 2</td>
-            <td><a class="dropdown-item" href="https://drive.google.com/file/d/16cX_ODK-d5WHJqA7wl1kbX6ix5U1xxbN/view?usp=share_link">Analisis 2</a></td>
-          </tr>
-        </tbody>
-      </table>
     </section>
 
     <footer class="footer text-white text-center p-3 mt-5" style="background-color: rgb(255, 137, 166)">
